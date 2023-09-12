@@ -1,0 +1,17 @@
+US01: Como usuário do sistema, preciso autenticar no sistema através de um nome de usuário e senha para ter acesso às funcionalidades disponíveis.
+
+US02: Como cliente, preciso introduzir um novo pedido de aluguel no sistema para poder alugar um veículo.
+
+US03: Como cliente, preciso modificar um pedido de aluguel já existente para alterar informações se necessário.
+
+US04: Como cliente, preciso consultar o status do meu pedido de aluguel no sistema para saber se está em análise ou se já foi aprovado.
+
+US05: Como cliente, preciso cancelar um pedido de aluguel caso eu não queira mais alugar o carro.
+
+US06: Como agente de uma empresa ou banco, preciso acessar o sistema para avaliar e modificar pedidos de aluguel que foram introduzidos pelos clientes, caso seja necessário.
+
+US07: Como agente de uma empresa ou banco, preciso avaliar financeiramente os pedidos de aluguel introduzidos pelos clientes para saber se são viáveis.
+
+US08: Como agente de uma empresa ou banco, preciso executar contratos de aluguel aprovados pelo sistema caso sejam viáveis.
+
+US09: Como agente de um banco, preciso associar um contrato de crédito a um aluguel de automóvel para que possa ser feita uma análise de crédito adequada.
